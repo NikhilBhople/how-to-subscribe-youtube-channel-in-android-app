@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YouTubeChannelSubscribe</string>
+    <string name="do_subscription">Do subscription</string>
+    <string name="subscribe_youtube_channel">Subscribe YouTube Channel</string>
+</resources>
