@@ -10,3 +10,5 @@
  After enable also if you are getting error then please check your api key
  
  If you want to use this project as it is then you will need to replace google-services.json file and YouTube api key
+
+<a href="https://imgflip.com/gif/1y5a1q"><img src="https://i.imgflip.com/1y5a1q.gif" title="made at imgflip.com"/></a>
